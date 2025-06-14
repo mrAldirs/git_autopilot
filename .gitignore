@@ -1,6 +1,8 @@
-# hide
-./dist
-./build
-./service/__pycache__
-./utils/__pycache__
+# output application files
+dist/
+build/
+
+# ignore Python cache files
+service/__pycache__
+utils/__pycache__
 app.spec
