@@ -1,0 +1,6 @@
+# hide
+./dist
+./build
+./service/__pycache__
+./utils/__pycache__
+app.spec
