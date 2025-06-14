@@ -3,6 +3,6 @@ dist/
 build/
 
 # ignore Python cache files
-service/__pycache__
-utils/__pycache__
+service/__pycache__/
+utils/__pycache__/
 app.spec
